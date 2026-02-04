@@ -19,7 +19,7 @@ Run `python api_call.py` for the simple api call.
 
 Run `streamlit run chatbot.py` to run the Streamlit app.
 
-## Guidelines for 
+## Guidelines for Lessons
 
 Make sure to set up the environement and install libraries before beginning to code as installation takes a while.
 
